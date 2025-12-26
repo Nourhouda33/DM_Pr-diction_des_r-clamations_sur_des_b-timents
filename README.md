@@ -16,7 +16,9 @@ L’objectif est de développer un **modèle de prédiction des réclamations (s
 
 ## 👥 Réalisé par
 - **JARBOUI Nour Houda**
-
+- **KCHAOU Mahmoud**
+- **GHARBI Zeinab**
+- **SAAD Eya**
 
 🎓 2ème année Génie Informatique  
 👨‍🏫 Encadré par : **Dr. Taoufik Ben Abdallah**
@@ -34,7 +36,6 @@ Le jeu de données contient des informations décrivant des bâtiments assurés 
 - Variable cible binaire : **Claim**  
   - 1 : au moins une réclamation  
   - 0 : aucune réclamation  
-
 
 ---
 
